@@ -35,7 +35,7 @@
 
 ## Тестовые артефакты
 <ul>
-<li><a href = "https://github.com/Nomasqwe/web_testing.git">Тестирование интернет-магазина (тестплан, тест-кейсы, чек-листы, баг-репорты)</a></li>
+<li><a href = "https://github.com/Nomasqwe/web_testing.git">Тестирование интернет-магазина (тест-план, тест-кейсы, чек-листы, баг-репорты)</a></li>
 <li><a href = "https://github.com/Nomasqwe/api-testing.git">REST и SOAP API с помощью инструмента Postman</a></li>
 <li><a href ="https://github.com/Nomasqwe/sql.git" >MySQL</a></li>
 <li><a href ="https://github.com/Nomasqwe/mobile_testing.git" >Тестирование мобильного приложения</a></li>
